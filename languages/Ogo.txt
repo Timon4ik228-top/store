@@ -1,0 +1,4 @@
+name: skatelang
+Os: Android
+Opisanie: Скейтерский язык
+Ssilka: https://t.me/setlanguage/skatelang
