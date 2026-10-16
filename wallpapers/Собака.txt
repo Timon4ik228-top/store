@@ -1,3 +1,0 @@
-name: Собачка
-Os:
-Opisanie: Пьос
