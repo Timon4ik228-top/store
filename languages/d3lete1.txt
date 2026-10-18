@@ -1,0 +1,4 @@
+name: d3lete1
+Os: Android
+Opisanie: Стилизованная русская локализация
+Ssilka: https://t.me/setlanguage/d3lete1
