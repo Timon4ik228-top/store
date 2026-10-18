@@ -1,0 +1,4 @@
+name: vd2009
+Os: Android
+Opisanie: Русская локализация
+Ssilka: https://t.me/setlanguage/vd2009
