@@ -1,0 +1,4 @@
+name: deadiniside
+Os: Android
+Opisanie: Мрачная локализация в стиле мемов
+Ssilka: https://t.me/setlanguage/deadiniside
