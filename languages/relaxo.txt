@@ -1,0 +1,4 @@
+name: relaxo
+Os: Android
+Opisanie: Спокойная минималистичная локализация
+Ssilka: https://t.me/setlanguage/relaxo
