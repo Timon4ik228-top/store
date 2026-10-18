@@ -1,0 +1,4 @@
+name: bookluv
+Os: Android
+Opisanie: Локализация для книжных романтиков
+Ssilka: https://t.me/setlanguage/bookluv
