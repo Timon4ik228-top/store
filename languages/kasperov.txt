@@ -1,0 +1,4 @@
+name: kasperov
+Os: Android
+Opisanie: Локализация от Kasperov
+Ssilka: https://t.me/setlanguage/kasperov
