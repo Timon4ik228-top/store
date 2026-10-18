@@ -1,0 +1,3 @@
+name: sothemesmorning
+Opisanie: Утренняя светлая тема
+Ssilka: https://t.me/addtheme/sothemesmorning
